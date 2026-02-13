@@ -24,7 +24,7 @@ Below are the main steps to change the color scheme set on the Report Wizard pag
 * [Form1.cs](./CS/CustomColorSchemes/Form1.cs) (VB: [Form1.vb](./VB/CustomColorSchemes/Form1.vb))
 * [CustomColorSchemeStorage.cs](./CS/CustomColorSchemes/CustomColorSchemeStorage.cs) (VB: [CustomColorSchemeStorage.vb](./VB/CustomColorSchemes/CustomColorSchemeStorage.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-customize-color-schemes-in-wizard-page&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-customize-color-schemes-in-wizard-page&~~~was_helpful=no)
 
